@@ -10,10 +10,10 @@ function toggleMode() {
     if (html.classList.contains("light")) {
 
       // se tiver light mode, adicionar a imagem light
-      img.setAttribute("src", "./assets/avatarsolari-light.png")
+      img.setAttribute("src", "./assets/gsantttos-light.png")
     } else {
       // se tiver sem light mode, manter a imagem normal
-      img.setAttribute("src", "./assets/avatarsolari.png")
+      img.setAttribute("src", "./assets/gsantttos-dark.png")
     }
 
 }
